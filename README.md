@@ -25,8 +25,11 @@ npm run dev
 Acesse [http://localhost:5173](http://localhost:5173) para visualizar a aplicação.
 
 ## 🔧Tecnologias Utilizadas 
-
-
+1. [HTML- Linguagem de Marcação de Hipertexto](https://pt.wikipedia.org/wiki/HTML)<hr>
+2. [CSS](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets)<hr>
+3. [JS- JavaScript](https://www.javascript.com)<hr>
+4. [Visual Studio Code](https://code.visualstudio.com)<hr>
+5. [Figma](https://www.figma.com/)<hr>
 
 # 🔗Link para acessar o deploy no GitHub
 
